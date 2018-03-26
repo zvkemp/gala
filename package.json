@@ -13,7 +13,7 @@
     "yarn": "1.x"
   },
   "dependencies": {
-    "@blueprintjs/core": "^1.6.0",
+    "@blueprintjs/core": "^2.0.1",
     "@rails/webpacker": "^3.0.1",
     "activestorage": "^0.1.1",
     "autoprefixer": "^8.0.0",
